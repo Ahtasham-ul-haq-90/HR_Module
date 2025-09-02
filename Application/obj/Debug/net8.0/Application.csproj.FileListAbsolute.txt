@@ -1,0 +1,15 @@
+D:\HR_System\Application\bin\Debug\net8.0\Application.deps.json
+D:\HR_System\Application\bin\Debug\net8.0\Application.dll
+D:\HR_System\Application\bin\Debug\net8.0\Application.pdb
+D:\HR_System\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\HR_System\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+D:\HR_System\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+D:\HR_System\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+D:\HR_System\Application\obj\Debug\net8.0\Application.dll
+D:\HR_System\Application\obj\Debug\net8.0\refint\Application.dll
+D:\HR_System\Application\obj\Debug\net8.0\Application.pdb
+D:\HR_System\Application\obj\Debug\net8.0\ref\Application.dll
+D:\HR_System\Application\bin\Debug\net8.0\Domain.dll
+D:\HR_System\Application\bin\Debug\net8.0\Domain.pdb
+D:\HR_System\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+D:\HR_System\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
